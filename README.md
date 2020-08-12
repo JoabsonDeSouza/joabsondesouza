@@ -1,7 +1,11 @@
-# Joabson de Souza
+# Hi, I'm Joabson de Souza,
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/https://github.com/joabsondesouza)](https://github.com/https://github.com/joabsondesouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabsondesouza/)](https://www.linkedin.com/in/joabsondesouza/)
 
+Hi, I'm Joabson de Souza, a Full Stack Developer 🚀 from Brazil, currently, I'm a Developer in Stefanini 🙍🏽‍♂️ and Freelancer 👨🏽‍💻. 
+Beside's programming, I enjoy eating food, playsoccer and traveling.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 Enthusiast of the best web & mobile development technologies, graduated in Information Technology Management and post-graduated in Mobile Development.
 
@@ -11,10 +15,17 @@ Experience in developing mobile applications using technologies such as Android 
 
 Currently these are the technologies that I know most:
 
-* [React Native] - React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities.
-* [React JS] - Developers design and implement user interface components for JavaScript-based web and mobile applications using the React open source library ecosystem.
-* [Node.js] - A Node. js developer is responsible for writing server-side web application logic in JavaScript and/or variants of it, such as CoffeeScript, IcedCoffeeScript, etc.
-* [Android] - Android software development is the process by which a new application is created for the Android operating system.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
