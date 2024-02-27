@@ -15,15 +15,39 @@
 <br>
 <br>
 
-<div style="display: inline_block"><br>
-Hi, I'm Joabson, a Full Stack Developer 🚀 from Brazil, currently, I'm a Developer in ProgramaDev 🙍🏽‍♂️ and Freelancer 👨🏽‍💻. 
-Beside's programming, I enjoy eating food, playsoccer and traveling.
+<div style="display: flex, flex-direction:row">
+<div width="70%">
+I'm a experienced software developer with over 10 years, specializing in frontend (React) and mobile application development (React Native and Android). Also, I'm a have knowledge with backend using NodeJs. 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%"/>
+One of my proudest achievements is the development and successful launch of the HelpMilhas mobile app, which has had over 15,000 downloads to date. This app has helped people get their miles (which are used to generate extra money or travel).
 
-Enthusiast of the best web & mobile development technologies, graduated in Information Technology Management and post-graduated in Mobile Development.
+Throughout my career, I have collaborated with leading companies in various sectors, successfully tackling challenges in large-scale projects. My commitment to excellence has consistently resulted in the delivery of solutions that have exceeded clients' expectations, great examples being Wiser Educação's WiseUp app or even Banco do Brasil's BB investimentos, which impacts millions of people around the world.
 
-Experience in developing mobile applications using technologies such as Android and React Native and currently focused on OmniStack (Node.js, ReactJS and React Native).
+Passionate about being at the forefront of technology, I keep up to date with the latest advances in mobile and web development. My dedication to applying best practices allows me to create innovative, high-performance solutions.
+
+# Languages:
+- HTML5, CSS3
+- Javascript/Typescript 
+- Java
+
+# Techs and Tools: 
+- React Native, React, Nodejs, express, Nextjs
+- Npm, yarn, Git
+- Redux, Styled Componets, Tailwind, 
+- Trello, ClickUp, Jira
+- REST/ RESTful API
+- Postman, Insomnia
+
+# Extras:
+- Social Media 
+- Paid Traffic (Facebook Ads e Google Ads)
+- Development: websites, systems, landing pages, etc.
+- Airline miles
+
+
+</div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" style="position: absolute; top: 30%; right: 5%"/>
+
 </div>
 <br>
 <div style="display: flex, flex-direction:column">
@@ -32,8 +56,7 @@ Experience in developing mobile applications using technologies such as Android 
   <img align="center" alt="Joabson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joabson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Joabson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
- <img align="center" alt="Joabson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joabson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
 <br>
@@ -45,11 +68,7 @@ Experience in developing mobile applications using technologies such as Android 
   </a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/joabsondesouza/joabsondesouza/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 </div>
 
  
