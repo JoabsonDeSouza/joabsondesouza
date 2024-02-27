@@ -25,6 +25,9 @@ Throughout my career, I have collaborated with leading companies in various sect
 
 Passionate about being at the forefront of technology, I keep up to date with the latest advances in mobile and web development. My dedication to applying best practices allows me to create innovative, high-performance solutions.
 
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<div>
+
 # Languages:
 - HTML5, CSS3
 - Javascript/Typescript 
@@ -43,10 +46,16 @@ Passionate about being at the forefront of technology, I keep up to date with th
 - Paid Traffic (Facebook Ads e Google Ads)
 - Development: websites, systems, landing pages, etc.
 - Airline miles
+</div>
+<div style="display:flex; align-items: center; padding-left: 20px">
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="96%" />
+</div>
+</div>
+
+
 
 
 </div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" style="position: absolute; top: 0%; right: 5%"/>
 
 </div>
 <br>
