@@ -46,7 +46,7 @@ Passionate about being at the forefront of technology, I keep up to date with th
 
 
 </div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" style="position: absolute; top: 30%; right: 5%"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" style="position: absolute; top: 0%; right: 5%"/>
 
 </div>
 <br>
