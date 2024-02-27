@@ -47,9 +47,6 @@ Passionate about being at the forefront of technology, I keep up to date with th
 - Development: websites, systems, landing pages, etc.
 - Airline miles
 </div>
-<div style="margin: 0; padding: 0; display:flex; align-items: center; padding-left: 20px">
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="96%" />
-</div>
 </div>
 
 
@@ -76,13 +73,17 @@ Passionate about being at the forefront of technology, I keep up to date with th
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabsondesouza&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-
 </div>
 
  
 ###
 ##
+
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="96%" />
+
+###
+##
+
 <div align="center">
 “Success is born out of wanting, determination and persistence in reaching a goal. Even if they don't reach the target, whoever seeks and overcomes obstacles, at least will do admirable things ”- José de Alencar
 </div>
