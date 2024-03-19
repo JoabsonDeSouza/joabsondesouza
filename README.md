@@ -19,6 +19,7 @@
 <div>
 As a software engineer with a passion for innovation, I've had the privilege of working on a variety of projects spanning financial, agricultural and educational companies. Throughout my journey, I've found joy in creating solutions that not only meet the needs of users, but also make a lasting impact on the companies I've worked with. My approach is based on a dedication to detail and a relentless pursuit of quality, ensuring that every product I contribute to reflects these values.
 
+
 I like environments that challenge me to grow and evolve, and that help me find opportunities for personal and professional development. By adopting new skills and technologies, I have been able to play a significant role in the success of the teams I have been part of.
 
 In addition to my professional endeavors, I am deeply passionate about helping people with my personal work, such as HelpMilhas. This is an app that I created on a non-profit basis and without any expectations whatsoever, and which has had a surprising result: more than 20,000 downloads on the platforms.
