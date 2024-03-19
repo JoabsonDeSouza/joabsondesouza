@@ -17,13 +17,11 @@
 
 <div style="display: flex, flex-direction:row">
 <div>
-I'm a experienced software developer with over 10 years, specializing in frontend (React) and mobile application development (React Native and Android). Also, I'm a have knowledge with backend using NodeJs. 
+As a software engineer with a passion for innovation, I've had the privilege of working on a variety of projects spanning financial, agricultural and educational companies. Throughout my journey, I've found joy in creating solutions that not only meet the needs of users, but also make a lasting impact on the companies I've worked with. My approach is based on a dedication to detail and a relentless pursuit of quality, ensuring that every product I contribute to reflects these values.
 
-One of my proudest achievements is the development and successful launch of the HelpMilhas mobile app, which has had over 15,000 downloads to date. This app has helped people get their miles (which are used to generate extra money or travel).
+I like environments that challenge me to grow and evolve, and that help me find opportunities for personal and professional development. By adopting new skills and technologies, I have been able to play a significant role in the success of the teams I have been part of.
 
-Throughout my career, I have collaborated with leading companies in various sectors, successfully tackling challenges in large-scale projects. My commitment to excellence has consistently resulted in the delivery of solutions that have exceeded clients' expectations, great examples being Wiser Educação's WiseUp app or even Banco do Brasil's BB investimentos, which impacts millions of people around the world.
-
-Passionate about being at the forefront of technology, I keep up to date with the latest advances in mobile and web development. My dedication to applying best practices allows me to create innovative, high-performance solutions.
+In addition to my professional endeavors, I am deeply passionate about helping people with my personal work, such as HelpMilhas. This is an app that I created on a non-profit basis and without any expectations whatsoever, and which has had a surprising result: more than 20,000 downloads on the platforms.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; margin-bottom: 20px;">
 <div style="margin: 0; padding: 0;">
