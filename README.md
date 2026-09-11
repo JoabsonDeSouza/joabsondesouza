@@ -1,19 +1,33 @@
 Hi ![Image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Joabson 👨🏽‍💻
 ===============================================================================================================================
 
-I'm a frontend and mobile engineer
-----------------------------------
+### Senior Software Engineer | Fullstack & AI Agents | React / Node.js / TypeScript
 
-As a software engineer with a passion for innovation, I've had the privilege of working on a variety of projects spanning financial, agricultural, and educational companies. Throughout my journey, I've found joy in creating solutions that not only meet the needs of users but also make a lasting impact on the companies I've worked with. My approach is based on a dedication to detail and a relentless pursuit of quality, ensuring that every product I contribute to reflects these values.
+<details open>
+<summary><strong>🇺🇸 English</strong></summary>
 
-I thrive in environments that challenge me to grow and evolve, providing opportunities for personal and professional development. By adopting new skills and technologies, I have been able to contribute significantly to the success of the teams I've worked with.  
+I'm a fullstack and mobile engineer with 10+ years of experience, building end-to-end products across finance, agriculture, and education companies. Lately I've been going deeper into **AI agent infrastructure** — MCP, context engineering, orchestration, and evals — combining solid engineering fundamentals with the next generation of LLM-based systems.
 
-In addition to my professional endeavors, I am deeply passionate about helping people through personal projects like HelpMilhas—an app I created on a non-profit basis that has reached over 20,000 downloads.
+I care about shipping things that actually reach people. **HelpMilhas**, a non-profit app I built solo, has passed **20,000 downloads**. I've also shipped **Onsailing** (AI-powered nautical management) and **StoryQuest Kids** (AI-powered interactive children's books) on the App Store and Google Play.
 
-### Contact Information
-- 🌍  Based in Brazil
-- 🖥️  Portfolio: [ProgramaDev](https://programadev.com/)
-- ✉️  Email: [joabsondesouza@hotmail.com](mailto:joabsondesouza@hotmail.com)
+- 🌍 Based in Uberlândia, Brazil — open to remote roles (Brazil, US, Netherlands)
+- 🖥️ Portfolio: [ProgramaDev](https://programadev.com/)
+- ✉️ Email: [joabsondesouza@hotmail.com](mailto:joabsondesouza@hotmail.com)
+
+</details>
+
+<details>
+<summary><strong>🇧🇷 Português</strong></summary>
+
+Sou engenheiro fullstack e mobile com mais de 10 anos de experiência, construindo produtos de ponta a ponta em empresas de finanças, agronegócio e educação. Recentemente venho me aprofundando em **infraestrutura de agentes de IA** — MCP, engenharia de contexto, orquestração e avaliação de agentes — unindo fundamentos sólidos de engenharia com a nova geração de sistemas baseados em LLM.
+
+Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, app não-comercial que criei sozinho, já passou de **20.000 downloads**. Também publiquei o **Onsailing** (gestão náutica com IA) e o **StoryQuest Kids** (livros interativos infantis com IA) na App Store e Google Play.
+
+- 🌍 Baseado em Uberlândia, Brasil — aberto a vagas remotas (Brasil, EUA, Holanda)
+- 🖥️ Portfólio: [ProgramaDev](https://programadev.com/)
+- ✉️ Email: [joabsondesouza@hotmail.com](mailto:joabsondesouza@hotmail.com)
+
+</details>
 
 <br />
 
@@ -26,26 +40,14 @@ In addition to my professional endeavors, I am deeply passionate about helping p
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
+  </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
@@ -56,7 +58,32 @@ In addition to my professional endeavors, I am deeply passionate about helping p
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openai.svg" width="36" height="36" alt="OpenAI / LLMs" />
+  </a>
 </p>
+
+`AI Agents` · `MCP` · `Context Engineering` · `n8n / Automation`
+
+<br />
+
+### Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Onsailing** | AI-powered nautical management app | App Store · Google Play |
+| **StoryQuest Kids** | AI-powered interactive children's books (ages 6–12) | App Store · Google Play |
+| **HelpMilhas** | Non-profit app for tracking airline miles — 20,000+ downloads | *(add link)* |
+
 <br />
 
 ### Socials
@@ -65,11 +92,11 @@ In addition to my professional endeavors, I am deeply passionate about helping p
   <a href="https://www.github.com/JoabsonDeSouza" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="http://www.instagram.com/programadorzao" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
   <a href="https://www.linkedin.com/in/JoabsonDeSouza" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/programadorzao" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/@programadorzao" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
@@ -78,6 +105,7 @@ In addition to my professional endeavors, I am deeply passionate about helping p
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
   </a>
 </p>
+
 <br />
 
 ### My GitHub Stats
@@ -90,5 +118,5 @@ In addition to my professional endeavors, I am deeply passionate about helping p
 <br />
 <br />
 
-> “Success is born out of wanting, determination, and persistence in reaching a goal. Even if they don't reach the target, whoever seeks and overcomes obstacles, at least will do admirable things.”  
+> “Success is born out of wanting, determination, and persistence in reaching a goal. Even if they don't reach the target, whoever seeks and overcomes obstacles, at least will do admirable things.”
 – José de Alencar
