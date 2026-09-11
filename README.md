@@ -108,15 +108,7 @@ Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, ap
 
 <br />
 
-### My GitHub Stats
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=joabsondesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabsondesouza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br />
-<br />
+### My GitHub Stats <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=joabsondesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabsondesouza&layout=compact&langs_count=7&theme=dracula"/></div> <br /><br />
 
 > “Success is born out of wanting, determination, and persistence in reaching a goal. Even if they don't reach the target, whoever seeks and overcomes obstacles, at least will do admirable things.”
 – José de Alencar
