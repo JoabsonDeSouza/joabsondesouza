@@ -8,7 +8,7 @@ Hi ![Image](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 I'm a fullstack and mobile engineer with 10+ years of experience, building end-to-end products across finance, agriculture, and education companies. Lately I've been going deeper into **AI agent infrastructure** — MCP, context engineering, orchestration, and evals — combining solid engineering fundamentals with the next generation of LLM-based systems.
 
-I care about shipping things that actually reach people. **HelpMilhas**, a non-profit app I built solo, has passed **20,000 downloads**. I've also shipped **Onsailing** (AI-powered nautical management) and **StoryQuest Kids** (AI-powered interactive children's books) on the App Store and Google Play.
+I care about shipping things that actually reach people. **HelpMilhas**, a non-profit app I built solo, has passed **20,000 downloads** on the App Store and Google Play.
 
 - 🌍 Based in Uberlândia, Brazil — open to remote roles (Brazil, US, Netherlands)
 - 🖥️ Portfolio: [ProgramaDev](https://programadev.com/)
@@ -21,7 +21,7 @@ I care about shipping things that actually reach people. **HelpMilhas**, a non-p
 
 Sou engenheiro fullstack e mobile com mais de 10 anos de experiência, construindo produtos de ponta a ponta em empresas de finanças, agronegócio e educação. Recentemente venho me aprofundando em **infraestrutura de agentes de IA** — MCP, engenharia de contexto, orquestração e avaliação de agentes — unindo fundamentos sólidos de engenharia com a nova geração de sistemas baseados em LLM.
 
-Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, app não-comercial que criei sozinho, já passou de **20.000 downloads**. Também publiquei o **Onsailing** (gestão náutica com IA) e o **StoryQuest Kids** (livros interativos infantis com IA) na App Store e Google Play.
+Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, app não-comercial que criei sozinho, já passou de **20.000 downloads** na App Store e Google Play.
 
 - 🌍 Baseado em Uberlândia, Brasil — aberto a vagas remotas (Brasil, EUA, Holanda)
 - 🖥️ Portfólio: [ProgramaDev](https://programadev.com/)
@@ -76,16 +76,6 @@ Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, ap
 
 <br />
 
-### Featured Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **Onsailing** | AI-powered nautical management app | App Store · Google Play |
-| **StoryQuest Kids** | AI-powered interactive children's books (ages 6–12) | App Store · Google Play |
-| **HelpMilhas** | Non-profit app for tracking airline miles — 20,000+ downloads | *(add link)* |
-
-<br />
-
 ### Socials
 
 <p align="left">
@@ -108,7 +98,15 @@ Gosto de construir coisas que realmente chegam nas pessoas. O **HelpMilhas**, ap
 
 <br />
 
-### My GitHub Stats <div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=joabsondesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />    <img height="180em" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabsondesouza&layout=compact&langs_count=7&theme=dracula"/></div> <br /><br />
+### My GitHub Stats
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img height="180em" style="margin: 5px;" src="https://github-stats-extended.vercel.app/api?username=joabsondesouza&show_icons=true&theme=dracula&include_all_commits=true" />
+    <img height="180em" style="margin: 5px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joabsondesouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br />
+<br />
 
 > “Success is born out of wanting, determination, and persistence in reaching a goal. Even if they don't reach the target, whoever seeks and overcomes obstacles, at least will do admirable things.”
 – José de Alencar
